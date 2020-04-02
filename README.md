@@ -13,13 +13,14 @@
 | cepheus-q-oss | Mi 9, Redmi K20 Pro | Android Q | LA.UM.8.1.r1-08700-sm8150.0 | [cepheus-q-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/cepheus-q-oss) |
 | clover-o-oss | Mi Pad 4 | Android O | LA.UM.6.2.r1-08100-sdm660.0 | [clover-o-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/clover-o-oss) |
 | crux-p-oss | Mi9 Pro 5G | Android P | LA.UM.7.1.r1-15600-sm8150.0 | [crux-p-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/crux-p-oss) |
+| daisy-o-oss | Mi A2 lite, Redmi 6pro | Android O | LA.UM.6.6.r1-07400-89xx.0-1 | [daisy-o-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/daisy-o-oss) |
+| daisy-p-oss | Mi A2 lite | Android P | LA.UM.7.6.r1-02800-89xx.0 | [daisy-p-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/daisy-p-oss) |
+| daisy-q-oss | Mi A2 Lite| Android Q | LA.UM.8.6.r1-02600-89xx.0 | [daisy-q-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/daisy-q-oss) |
+| davinci-p-oss | Redmi K20 | Android P | LA.UM.7.9.r1-03300-sm6150.0 | [davinci-p-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/davinci-p-oss) |
 | dior-kk-oss | Redmi Note Single SIM | Android KK | LNX.LA.3.5.2.2.2-00510-8x26.0 | [dior-kk-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/dior-kk-oss) |
 | dipper-o-oss | Mi 8/MI 8 Explorer Edition/POCOPHONE F1 | Android 8.1 | LA.UM.6.3.r4-03000-sdm845.0 | [dipper-o-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/dipper-o-oss) |
 | dipper-p-oss | MIX2S, MIX3, MI 8, POCOPHONE F1, MI 8UD, MI 8 Explorer Edition | Android P | LA.UM.7.3.r1-04500-sdm845.0 | [dipper-p-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/dipper-p-oss) |
 | dipper-q-oss | MI 8, MIX2S, POCOPHONE F1, MI 8UD, MIX 3, MI 8 Explorer Edition | Android Q | LA.UM.8.3.r1-05800-sdm845.0 | [dipper-q-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/dipper-q-oss) |
-| daisy-o-oss | Mi A2 lite, Redmi 6pro | Android O | LA.UM.6.6.r1-07400-89xx.0-1 | [daisy-o-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/daisy-o-oss) |
-| daisy-p-oss | Mi A2 lite | Android P | LA.UM.7.6.r1-02800-89xx.0 | [daisy-p-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/daisy-p-oss) |
-| davinci-p-oss | Redmi K20 | Android P | LA.UM.7.9.r1-03300-sm6150.0 | [davinci-p-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/davinci-p-oss) |
 | ferrari-l-oss | Mi 4i | Android L | LA.BR.1.1.2-01120-8x16.0 | [ferrari-l-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/ferrari-l-oss) |
 | gemini-m-oss | Mi 5 | Android M | LA.HB.1.1.1.c2_rb1035 | [gemini-m-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/gemini-m-oss) |
 | ginkgo-p-oss | Redmi Note 8 | Android P | LA.UM.7.11.r1-02700-NICOBAR.0 | [ginkgo-p-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/ginkgo-p-oss) |
@@ -41,6 +42,7 @@
 | lavender-p-oss| Redmi Note 7 | Android P | LA.UM.7.2.r1-04900-sdm660.0 | [lavender-p-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/lavender-p-oss) |
 | libra-l-oss | Mi 4S, Mi 4C, Mi Note Pro | Android L | LA.BF64.1.2.1.c1-05310-8x92.0 | [libra-l-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/libra-l-oss) |
 | libra-n-oss | Mi 4S, Mi 4C, Mi Note Pro | Android N | LA.BF64.1.2.3-01110-8x94.0 | [libra-n-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/libra-n-oss) |
+| lmi-q-oss | Redmi K30 Pro| Android Q | LA.UM.8.12.r1-06000-sm8250.0 | [lmi-q-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/lmi-q-oss) |
 | lotus-o-oss | Mi Play | Android O | MTK | [lotus-o-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/lotus-o-oss) |
 | markw-m-oss | Redmi 4 Premium | Android M | LA.UM.5.3-03710-89xx.0 | [markw-m-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/markw-m-oss) |
 | mi1_kernel | Mi 1 | Android ICS | M8260AAABQNLZA313065 | [mi1_kernel](https://github.com/MiCode/mi1_kernel) |
@@ -51,10 +53,12 @@
 | nitrogen-o-oss | MI MAX3,Mi Note 3 | Android O | LA.UM.6.2.r1-07400-sdm660.0 | [nitrogen-o-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/nitrogen-o-oss) |
 | nitrogen-p-oss | MI MAX3,MI 8Lite | Android P | LA.UM.7.2.r1-05200-sdm660.0 | [nitrogen-p-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/nitrogen-p-oss) |
 | olive-p-oss | Redmi 8, Redmi 8A | Android P | LA.UM.7.6.2.r1-08100-89xx.0 | [olive-p-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/olive-p-oss) |
+| olivewood-p-oss  | Redmi 8A Dual | Android P | LA.UM.7.6.2.r1-08100-89xx.0 | [olivewood-p-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/olivewood-p-oss) |
 | onc-p-oss | Redmi 7, Redmi Y3 | Android P | LA.UM.7.6.2.r1-04200-89xx.0 | [onc-p-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/onc-p-oss) |
 | oxygen-n-oss | Mi Max 2 | Android N | LA.UM.5.6.r1-01900-89xx.0 | [oxygen-n-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/oxygen-n-oss) |
 | perseus-p-oss | MIX 3 | Android P | LA.UM.7.3.r1-04500-sdm845.0 | [perseus-p-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/perseus-p-oss) |
 | phoenix-q-oss | Redmi K30, Redmi K20 | Android Q | LA.UM.8.9.r1-03800-sm6150.0 | [phoenix-q-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/phoenix-q-oss) |
+| picasso-q-oss | Redmi K30 5G | Android Q | LA.UM.8.13.r1-03300-SAIPAN.0 | [picasso-q-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/picasso-q-oss) |
 | pine-p-oss | Redmi 7A | Android P | LA.UM.7.6.2.r1-08100-89xx.0 | [pine-p-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/pine-p-oss) |
 | pisces-kk-oss | Mi 3 China Mobile | Android KK | tegra-17r18-android-4.2 | [pisces-kk-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/pisces-kk-oss) |
 | platina-o-oss | MI 8 Lite | Android O | LA.UM.6.2.r1-07400-sdm660.0 | [platina-o-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/platina-o-oss) |
